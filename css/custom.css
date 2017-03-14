@@ -110,6 +110,34 @@
   /*width: 550px;*/
 }
 
+.about-text {
+  font-family: Amiri;
+  font-size: 1.2em;
+  color: #333;
+  max-width: 800px;
+}
+
+.about-text a {
+  /*color: #FFDB6C;*/
+  color: #333;
+  text-decoration: underline;
+}
+
+.about-text a:hover {
+  color: #FFDB6C;
+}
+
+.go-back-link {
+  font-family: 'Space Mono';
+  text-transform: uppercase;
+  color: #FFDB6C;
+  cursor: pointer;
+}
+
+.go-back-link:hover {
+  color: #333;
+}
+
 @media (max-width: 700px) {
 	.feature-article-quote {
 	  font-size: 1.4em;
