@@ -127,6 +127,13 @@
   color: #FFDB6C;
 }
 
+.about-text-header {
+  font-family: Gilroy;
+  margin-top: 30px;
+  /*color: #fff;*/
+  text-transform: uppercase;
+}
+
 .go-back-link {
   font-family: 'Space Mono';
   text-transform: uppercase;
@@ -187,6 +194,16 @@
 
 .explainer-section-backing {
   background-color: #EB5757;
+  /*background-color: #efefef;*/
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.about-section-backing {
+  /*background-color: #EB5757;*/
+  background-color: #56CCF2;
   padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 30px;
