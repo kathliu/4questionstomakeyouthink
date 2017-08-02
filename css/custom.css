@@ -341,3 +341,13 @@
   background-color: #219653;
   text-decoration: underline;
 }
+
+#zine-summer-order-button {
+  background-color: #F2C94C;
+  text-decoration: none;
+}
+
+#zine-summer-order-button:hover {
+  background-color: #F6C01C;
+  text-decoration: underline;
+}
